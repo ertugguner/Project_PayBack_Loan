@@ -1,5 +1,3 @@
-# Project_PayBack_Loan
-
 # Payback Loan Estimator(Keras API): Project Overview
 - Creating a Deep Learning model which predicting  whether or not a borrower will pay back their loan.
 - I completed this project with what I learned from this course:
